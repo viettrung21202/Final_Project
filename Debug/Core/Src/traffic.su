@@ -1,0 +1,7 @@
+traffic.c:3:6:setTrafficRed1	8	static
+traffic.c:8:6:setTrafficAmber1	8	static
+traffic.c:13:6:setTrafficGreen1	8	static
+traffic.c:18:6:setTrafficRed2	8	static
+traffic.c:23:6:setTrafficAmber2	8	static
+traffic.c:28:6:setTrafficGreen2	8	static
+traffic.c:33:6:setTrafficOff	8	static
